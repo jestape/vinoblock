@@ -1,4 +1,4 @@
-<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoCostflores.svg" align="left"
+<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoCostaflores.svg" align="left"
      title="Costaflores Organic Vineyard Logo">
 
 <img src="https://github.com/jestape/vinoblock/blob/master/img/LogoOpenvino.svg"
