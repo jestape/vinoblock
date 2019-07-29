@@ -3,7 +3,7 @@
 
 # Vinoblock
 
-<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoMTB.png" align="right" width="200" height="100" title="MTB Logo">
+<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoMTB.png" align="right" width="200" height="400" title="MTB Logo">
 
 Vinoblock is a set of packages built for the project Costaflores Global Vineyard.
 The idea behind Costaflores Global Vineyard project is to create a hardware ethereum node that connects to the Openvino private network giving the end-user (basically wine cellars, restaurants, hotels...) the oportunity to:
