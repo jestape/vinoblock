@@ -24,5 +24,5 @@ I also encourage you to read about the [Openvino project](http://wiki.costaflore
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GvhYdOVTmlM
 " target="_blank"><img src="https://github.com/jestape/vinoblock/blob/master/img/video.png" 
-alt="Introducing Openvino" width="240" height="180" border="10" /></a>
+alt="Introducing Openvino" border="10" /></a>
 
