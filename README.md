@@ -1,10 +1,9 @@
-<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoCostaflores.svg" align="left"
-     title="Costaflores Organic Vineyard Logo">
-
-<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoOpenvino.svg"
-     title="Openvino Project Logo" width="120" height="178">
+<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoCostaflores.svg"
+     title="Costaflores Organic Vineyard Logo" width="fill">
 
 # Vinoblock
+
+<img src="https://github.com/jestape/vinoblock/blob/master/img/LogoMTB.png" align="right" width="200" height="100" title="MTB Logo">
 
 Vinoblock is a set of packages built for the project Costaflores Global Vineyard.
 The idea behind Costaflores Global Vineyard project is to create a hardware ethereum node that connects to the Openvino private network giving the end-user (basically wine cellars, restaurants, hotels...) the oportunity to:
@@ -21,6 +20,8 @@ There's a step by step tutorial on how to implement your own vinoblock:
 * [Running the services.](http://wiki.costaflores.com/display/OP/The+Vinoblock)
 
 I also encourage you to read about the [Openvino project](http://wiki.costaflores.com). Name a better way to learn blockchain than wine. I'll wait...
+
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GvhYdOVTmlM
 " target="_blank"><img src="https://github.com/jestape/vinoblock/blob/master/img/video.png" 
