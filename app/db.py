@@ -30,3 +30,17 @@ class DB:
         data = (time.strftime('%Y-%m-%d %H:%M:%S'), _sensor, _temperature, _humidity)
         cursor.execute(add_data, data)
         self.cnx.commit()
+
+    def selectData(self):
+        cursor = self.cnx.cursor()
+        select = ("SELECT temperature, humidity FROM sensor_data WHERE _timestamp >= (SELECT MAX(_timestamp) FROM sensor_data)")
+        cursor.execute(select)
+        return cursor.fetchone()
+
+    def migrateData(self):
+        cursor = self.cnx.cursor()
+        update = ("")
+        cursor.execute(update)
+        delete = ("")
+        cursor.execute(delete)
+        cursor.close()
